@@ -1,5 +1,7 @@
-# My Awesome Book
+# Mapping the Modern Web Design Process
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Christopher J. Roberts
+03/06/2016
+
 
 An easy to understand, overview and guide to the modern web design process.

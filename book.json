@@ -1,4 +1,6 @@
 {
+    "title": "Mapping the Modern Web Design Process",
+    "description": "Easy to understand, overview and guide to the modern web design process.",
     "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",

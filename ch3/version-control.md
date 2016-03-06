@@ -17,6 +17,6 @@ New components and experiments are branched out and merged back only when they a
 
 
 
-[git-branching]: ./images/git-branching.png "Github branching"
+[git-branching]: ../images/git-branching.png "Github branching"
 
 

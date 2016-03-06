@@ -6,5 +6,4 @@ Christopher J. Roberts
 
 An easy to understand, overview and guide to the modern web design process.
 
-{% include "./GLOSSARY.md" %}
 

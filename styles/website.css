@@ -81,6 +81,7 @@
 body {
     font-family: Acta, Georgia, 'Times New Roman', serif;
     font-size: 18px;
-    line-height: $line-height--default;
-    color: $text-color;
+    line-height: 1.5;
+    color: #121212;
 }
+

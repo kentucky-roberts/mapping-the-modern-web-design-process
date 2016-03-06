@@ -1,15 +1,24 @@
 # Mapping the Modern Web Design Process
 
-Christopher J. Roberts
+Christopher J. Roberts<br>
 03/06/2016
+
+
+![alt text][dev-process-overview-image]
 
 
 An easy to understand, overview and guide to the modern web design process.
 
 
-![alt text][logo]
 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
+
+
+
+
+[dev-process-overview-image]: ./images/dev-process-overview-diagram.png "Dev Process Overview"
 
 

@@ -1,5 +1,6 @@
 {
     "title": "Mapping the Modern Web Design Process",
+    "author": "Christopher J. Roberts", 
     "description": "Easy to understand, overview and guide to the modern web design process.",
     "styles": {
         "website": "styles/website.css",

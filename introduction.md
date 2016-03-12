@@ -11,3 +11,9 @@ To me, the term web design has evolved to become the umbrella term that encompas
 These include the old web design principals, graphic and interface design, authoring, user experience design, search engine optimization, etc. as well as the other disciplines involved in the creating and providing a website, content strategy, information architecture, front and back-end development, even infrastructure and system architecture.  
 
 Going forward, I will use web design as the catchall term that holds within it all the roles and disciplines that go together to bring the idea of a website to fruition, as the presentation of live content on the web.
+
+
+## The only thing that matters...
+<p class="lead text-center">
+  Is that the  <strong>end user</strong> is able to <strong>find the information</strong> she is looking for and in a format that she is able to <strong>consume</strong> and <strong>understand</strong>.
+</p>

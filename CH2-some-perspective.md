@@ -4,11 +4,11 @@ What are we building and who are we building it for?
 
 ## The only thing that matters.
 
-<p class="lead">
-  The end user is able to find the information she is looking for and in a format that she is able to consume and understand.
+<p class="lead text-center">
+  The <strong>end user</strong> is able to <strong>find the information</strong> she is looking for and in a format that she is able to <strong>consume</strong> and <strong>understand</strong>.
 </p>
 
-###Important Points
+#### Important Points
 <ul>
   <li>
     The website is designed for the end user.
